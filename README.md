@@ -1,6 +1,6 @@
 ## Google Gemini_Pro Chat Model
 
-## Prerequisites
+### Prerequisites
 
 To follow this tutorial, you will need:
 
@@ -10,7 +10,7 @@ To follow this tutorial, you will need:
 
 
 
-## How to run the code
+### How to run the code
 
 1. Clone this repository or download the zip file
 2. Create a virtual environment and activate it

@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-To follow this tutorial, you will need:
+To follow this tutorial, you will need: 
 
 - Python 3.9 or higher
 - V S code (any preferable IDE)

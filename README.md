@@ -1,4 +1,4 @@
-## Google Gemini_Pro Chat Model
+# Google Gemini_Pro Chat Model
 
 ### Prerequisites
 
